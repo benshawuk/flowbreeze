@@ -19,6 +19,9 @@
 
 Flowbreeze is a port of the Laravel Breeze starter kit to use the open source Flowbite UI components and styling.
 
+![flowbreeze](https://github.com/user-attachments/assets/2fb1291e-14d8-4f25-947c-4c2b8750f6af)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
