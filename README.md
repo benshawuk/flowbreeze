@@ -18,6 +18,7 @@
 ## About Flowbreeze
 
 Flowbreeze is a port of the Laravel Breeze starter kit to use the open source Flowbite UI components and styling.
+It uses Livewire Volt (class based API).
 
 ![flowbreeze](https://github.com/user-attachments/assets/2fb1291e-14d8-4f25-947c-4c2b8750f6af)
 
